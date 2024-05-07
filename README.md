@@ -9,6 +9,7 @@ To use this jupyter notebook you must have an environment set up with:
 - pandas 
 - numpy 
 - sklearn
+
 Note: Where version is specified you must make sure to get that specific version or the code will throw errors.
 
 If using anaconda to test or use this project here is a helpful article that gives instructions to getting a newly created conda environment to show up in Jupyter notebook interface : https://medium.com/@jy.wong.xeron/managing-jupyter-notebooks-and-conda-environments-6b8c627e0c2f
